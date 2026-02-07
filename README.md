@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I’m Shuang 👋
+Data Analyst / BI Analyst working on end-to-end analytics —
+from raw data to decision-ready insights, dashboards, and reports.
 
-<!--
-**Shuang-Li-501/shuang-li-501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 Selected Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Public / Academic Projects**
+- 🚲 Cyclistic Customer Behavior (BI dashboard)
+- 📈 Bellabeat Case Study (behavioral analytics)
+- 📚 Bayesian Student Performance Analysis
+- 🤖 Statistical Learning Final Project
+
+**Professional / Restricted Projects**
+- Nationwide logistics data analysis & automated reporting (Python ETL)
+- Survey analytics & dashboarding for operational insights (Python + Power BI)
+- Market & policy analysis of vehicle electrification trends (Python + Tableau)
+- End-to-end event data workflow management
+
+👉 **Full portfolio:** https://shuang-li-501.github.io  
+📫 **LinkedIn:** https://www.linkedin.com/in/shuangli501
+📧 **Contact:** shuang.li.analytics@gmail.com
