@@ -4,6 +4,15 @@ from raw data to decision-ready insights, dashboards, and reports.
 
 ---
 
+### 🔍 What I Do
+- Translate business and policy questions into structured analytical frameworks  
+- Analyze operational, market, and survey data to uncover trends and pain points  
+- Build dashboards and recurring reports for stakeholder decision-making  
+- Automate data workflows and reporting pipelines using Python  
+- Communicate insights clearly under real-world data sensitivity constraints  
+
+---
+
 ### 📊 Selected Work
 
 **Public / Academic Projects**
