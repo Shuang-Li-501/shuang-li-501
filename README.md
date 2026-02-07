@@ -18,6 +18,8 @@ from raw data to decision-ready insights, dashboards, and reports.
 - Market & policy analysis of vehicle electrification trends (Python + Tableau)
 - End-to-end event data workflow management
 
+---
+
 👉 **Full portfolio:** https://shuang-li-501.github.io  
-📫 **LinkedIn:** https://www.linkedin.com/in/shuangli501
+🔗 **LinkedIn:** https://www.linkedin.com/in/shuangli501  
 📧 **Contact:** shuang.li.analytics@gmail.com
